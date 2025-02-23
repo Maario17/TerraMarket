@@ -13,4 +13,5 @@ export const routes: Routes = [
   { path: 'detalles-pedido', component: DetallesPedidoComponent },
   { path: 'mercado/:id', component: MarketViewComponent },
   { path: 'cesta', component: CestaComponent },
+  { path: 'realizar-pedido', component: RealizarPedidoComponent },
 ];
